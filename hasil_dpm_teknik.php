@@ -264,14 +264,80 @@ try {
                 </tr>
                 <tr>
                 <td>$keterangan[4]</td>
-                <td></td>
+                <td>$persentase[4]</td>
                 <td>$jumlah[4]</td>
                 </tr>
                 <tr>
                 <td>$keterangan[5]</td>
-                <td></td>
+                <td>$persentase[5]</td>
                 <td>$jumlah[5]</td>
                 </tr>
+                <tr>
+                <td>$keterangan[6]</td>
+                <td>$persentase[6]</td>
+                <td>$jumlah[6]</td>
+                </tr>
+                <tr>
+                <td>$keterangan[7]</td>
+                <td>$persentase[7]</td>
+                <td>$jumlah[7]</td>
+                </tr>
+                <tr>
+                <td>$keterangan[8]</td>
+                <td>$persentase[8]</td>
+                <td>$jumlah[8]</td>
+                </tr>
+                <tr>
+                <td>$keterangan[9]</td>
+                <td>$persentase[9]</td>
+                <td>$jumlah[9]</td>
+                </tr>
+                <tr>
+                <td>$keterangan[10]</td>
+                <td>$persentase[10]</td>
+                <td>$jumlah[10]</td>
+                </tr>
+                <tr>
+                <td>$keterangan[11]</td>
+                <td>$persentase[11]</td>
+                <td>$jumlah[11]</td>
+                </tr>
+                <tr>
+                <td>$keterangan[12]</td>
+                <td>$persentase[12]</td>
+                <td>$jumlah[12]</td>
+                </tr>
+                <tr>
+                <td>$keterangan[13]</td>
+                <td>$persentase[13]</td>
+                <td>$jumlah[13]</td>
+                </tr>
+                <tr>
+                <td>$keterangan[14]</td>
+                <td>$persentase[14]</td>
+                <td>$jumlah[14]</td>
+                </tr>
+                <tr>
+                <td>$keterangan[15]</td>
+                <td>$persentase[15]</td>
+                <td>$jumlah[15]</td>
+                </tr>
+                <tr>
+                <td>$keterangan[16]</td>
+                <td>$persentase[16]</td>
+                <td>$jumlah[16]</td>
+                </tr>
+                <tr>
+                <td>$keterangan[17]</td>
+                <td>$persentase[17]</td>
+                <td>$jumlah[17]</td>
+                </tr>
+                <tr>
+                <td>$keterangan[18]</td>
+                <td>$persentase[18]</td>
+                <td>$jumlah[18]</td>
+                </tr>
+                
             </tbody>
         </table>
     </div>"
